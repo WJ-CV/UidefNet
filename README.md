@@ -11,4 +11,3 @@ Network Architecture
 RGB-T SOD Results
 ===
 [Saliency map](https://pan.baidu.com/s/1ql9jednuTXONuicR47o3wg):(code:0825)
-![548d2c66731e2c1d02ccce5afa448fc](https://user-images.githubusercontent.com/101792089/224666238-94afb0b7-bfc0-443d-93d2-46dffa4c462a.png)
