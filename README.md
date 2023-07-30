@@ -10,7 +10,7 @@ Network Architecture
 
 RGB-T SOD Results
 ===
-We provide [Results](https://pan.baidu.com/s/1ql9jednuTXONuicR47o3wg):(code:0825) of our UidefNet on 3 datasets (VT5000-Test VT1000 and VT821).
+We provide [Results](https://pan.baidu.com/s/1ql9jednuTXONuicR47o3wg):(code:0825) of our UidefNet on three datasets (VT5000-Test VT1000 and VT821).
 
 Citation
 ===
