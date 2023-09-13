@@ -12,6 +12,11 @@ RGB-T SOD Results
 ===
 We provide [Results](https://pan.baidu.com/s/1ql9jednuTXONuicR47o3wg):(code:0825) of our UidefNet on three datasets (VT5000-Test, VT1000 and VT821).
 
+Quantitative results
+===
+The following figure shows the detailed quantitative metrics of UidefNet on three RGB-T SOD datasets:
+![Metrics](https://github.com/WJ-CV/UidefNet/assets/101792089/c72cff3a-e69f-45be-9286-18c3787da3b6)
+
 Citation
 ===
 ```
